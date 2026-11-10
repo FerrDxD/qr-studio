@@ -39,7 +39,7 @@ Dengan estetika **Tactile Studio** (border 1px yang tegas, dark mode default, sp
 
 ```bash
 # 1. Klon repositori
-git clone https://github.com/anda/qr-studio.git
+git clone https://github.com/FerrDxD/qr-studio.git
 cd qr-studio
 
 # 2. Instal dependensi
